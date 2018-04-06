@@ -22,9 +22,7 @@ class MainActivity : AppCompatActivity() {
 ```
 
 ## 出力結果  
-```
-Hello World
-```
+![Android Studio画面](https://imgur.com/a/PJlRa)
   
 ## 開発環境
 | 開発ツール |  |
