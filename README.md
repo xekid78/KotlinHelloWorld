@@ -22,8 +22,7 @@ class MainActivity : AppCompatActivity() {
 ```
 
 ## 出力結果  
-![Android Studio画面](https://imgur.com/a/kiT2D "Android Studio")
-  
+<img src="https://imgur.com/a/kiT2D" width="320">
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
