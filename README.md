@@ -22,7 +22,8 @@ class MainActivity : AppCompatActivity() {
 ```
 
 ## 出力結果  
-<img src="https://imgur.com/a/kiT2D" width="320">
+<img src="https://imgur.com/a/kiT2D" width="320">  
+
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
