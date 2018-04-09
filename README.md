@@ -1,4 +1,4 @@
-# KtHelloWorld
+# KotlinHelloWorld
 HelloWorldと表示
 
 ## 処理
@@ -6,27 +6,24 @@ HelloWorldと表示
 
 ## コード
 ```
-package com.example.mako1.myapplication
-
-import android.support.v7.app.AppCompatActivity
-import android.os.Bundle
-
-class MainActivity : AppCompatActivity() {
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-        println("Hello World")
-    }
+fun main(args: Array<String>) {
+    println("Hello World")
 }
 ```
 
 ## 出力結果  
-<img src="https://imgur.com/a/kiT2D" width="320">  
+```
+Hello World
+```
 
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
 | OS | Windows10 |
-| 統合開発環境(IDE) | Android Studio 3.1 |
+| 仮想化ソフト | Oracle VM VirtualBox 5.2 |
+| 構築ソフト | Vagrant 2.0.2 |
+| 仮想化上OS | CentOS 6.9 |
+| SSHクライアント | PuTTY 0.6.8 |
+| FTPクライアント | Cyberduck 6.3.5 |
+| エディタ | Atom 1.24.0 |
 | 開発言語 | Kotlin 1.2.31 |
